@@ -1,0 +1,26 @@
+.nummer {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+ul li {
+    border: 2px solid white;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+    background-color: darkgoldenrod;
+    font-family: Verdana;
+    font-size: 25px;
+    display: inline-flex;
+    align-content: center;
+    padding: 5px;
+}
+body {
+    background: url("https://img.freepik.com/vrije-photo/jonge-man-die-zijn-vinger-op-zijn-mond-houdt-en-iemand-belt-met-zijn-telefoon-op-een-witte-achtergrond_176474-114479.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
