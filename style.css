@@ -10,6 +10,8 @@ body{
     font-family: verdana;
     background: url("https://i.imgflip.com/4ufpgo.png");
     background-size: 100% 100%;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 ul li {
     border: 2px solid white;
@@ -46,4 +48,10 @@ ul li {
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 50px;
+}
+#page{
+    font-family: verdana;
+    color: white;
+    font-size: 30px;
+    text-align: center;
 }
